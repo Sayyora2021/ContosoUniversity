@@ -1,0 +1,3 @@
+Remove-Migration -Context SchoolContext -Project ContosoUniversity.Infrastructure
+
+

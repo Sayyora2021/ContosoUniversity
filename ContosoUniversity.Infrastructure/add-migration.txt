@@ -1,0 +1,2 @@
+Add-Migration ContosoUniversityVersion1 -Context SchoolContext -StartupProject ContosoUniversity -Project ContosoUniversity.Infrastructure -OutputDir Data\Migrations
+
